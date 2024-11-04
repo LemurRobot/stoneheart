@@ -12,7 +12,7 @@ Settings
 CSS
   .box-header
   {
-    border: 0;
+    border-style: none;
     border-radius:8px;
     background:rgba(255,255,255,0.5);
   }
