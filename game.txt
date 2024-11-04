@@ -12,5 +12,5 @@ Settings
 CSS
   .thing
   {
-    text-shadow:1px 1px 0 black;
+    text-shadow:4px 4px 0 black;
   }
