@@ -10,7 +10,7 @@ Settings
 	tiling background:https://raw.githubusercontent.com/LemurRobot/stoneheart/main/stones.jpg
         building cost increase:110%
 CSS
-  .thing
+  .box-header
   {
     border-radius:8px;
     background:rgba(255,255,255,0.5);
