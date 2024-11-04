@@ -8,3 +8,9 @@ Let's make a game!
 
 Settings
 	tiling background:https://raw.githubusercontent.com/LemurRobot/stoneheart/main/stones.jpg
+        building cost increase:110%
+CSS
+  .thing
+  {
+    text-shadow:1px 1px 0 black;
+  }
