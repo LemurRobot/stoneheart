@@ -7,4 +7,4 @@ Let's make a game!
 	version:0.1
 
 Settings
-	background repeating:https://raw.githubusercontent.com/LemurRobot/stoneheart/main/stones.jpg
+	tiling background:https://raw.githubusercontent.com/LemurRobot/stoneheart/main/stones.jpg
