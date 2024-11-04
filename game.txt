@@ -4,7 +4,7 @@ Let's make a game!
 	desc:This is a simple idle game where you make it to the center of the Earth by mining and fighting monsters.<//>Find the <b><i>Heart of the Mountain!</i></b>
 	created:11/4/2024
 	updated:11/4/2024
-	version:0.1
+	version:1
 
 Settings
 	tiling background:https://raw.githubusercontent.com/LemurRobot/stoneheart/main/stones.jpg
