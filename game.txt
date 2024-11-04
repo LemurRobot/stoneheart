@@ -12,5 +12,6 @@ Settings
 CSS
   .thing
   {
-    text-shadow:4px 4px 0 black;
+    border-radius:8px;
+    background:rgba(255,255,255,0.5);
   }
