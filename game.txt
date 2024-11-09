@@ -14,5 +14,5 @@ CSS
   {
     border-style: none;
     border-radius:8px;
-    background-color: lightgrey;
+    background-color: grey;
   }
